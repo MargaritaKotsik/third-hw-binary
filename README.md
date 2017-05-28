@@ -1,0 +1,1 @@
+first step with *mongo db*, here I  write a request to search for all students score of> 87% and <93% for any of the types of completed assignments. Then I write an aggregation request for the sample of all students who have a test result (type: "exam") of more than 90% (use unwind), students with the name Dusti Lemmond add a "accepted" field with a value of true.
